@@ -4,5 +4,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=inc44&layout=compact&theme=buefy)
 
+![](https://streak-stats.demolab.com/?user=inc44&theme=buefy)
 
 </div>
