@@ -6,4 +6,6 @@
 
 ![](https://streak-stats.demolab.com/?user=inc44&theme=buefy)
 
+[I'll do it later](https://inc44.github.io/blog/templates/)
+
 </div>
