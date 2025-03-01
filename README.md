@@ -8,19 +8,19 @@
 
 ![](bar.png)
 
-[I'll do it later](https://inc44.github.io/blog/templates/)
+[I'll do it later](https://inc44.github.io/blog/templates)
 
-[I am using it now](https://inc44.github.io/CoFlu/)
+[I am using it now](https://inc44.github.io/CoFlu)
 
 </div>
 
 ![](bar.png)
 
-#### My "passion" is surviving an 80-hour week from Monday to Saturday.
+#### *My "passion" is surviving an 80-hour week from Monday to Saturday.*
 But hey, I still have time for my projects!
 
 - **MaTools** — for when you need to “organize” files (hide them).
-- **CoFlu** — to fix typos, because apparently, grammar is a social construct.
+- **CoFlu** — to fix typos because, apparently, grammar is a social construct.
 - **And Rust?** That’s my “spinning donut of doom,” faster than your WiFi.
 
 #### Contributions?
@@ -33,3 +33,6 @@ Proof I’m not alone in this madness.
 ![](bar.png)
 
 P.S. *This text is proudly sponsored by my 5-minute break from existential dread.*
+
+#### Support?
+<a href="https://buymeacoffee.com/xamituchido"><img src="https://img.buymeacoffee.com/button-api/?text=The More You Need&emoji=🍕&slug=xamituchido&button_colour=c6a0f6&font_colour=000000&outline_colour=000000&coffee_colour=ffffff"/></a>
