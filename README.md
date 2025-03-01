@@ -12,7 +12,7 @@
 
 </div>
 
----
+![](bar.png)
 
 #### My "passion" is surviving an 80-hour week from Monday to Saturday.
 But hey, I still have time for my projects!
@@ -28,6 +28,6 @@ But hey, it’s not about making a difference—it’s about the *illusion* of p
 #### My stars?
 Proof I’m not alone in this madness.
 
----
+![](bar.png)
 
 P.S. *This text is proudly sponsored by my 5-minute break from existential dread.*
