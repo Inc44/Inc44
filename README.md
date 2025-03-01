@@ -35,4 +35,4 @@ Proof I’m not alone in this madness.
 P.S. *This text is proudly sponsored by my 5-minute break from existential dread.*
 
 #### Support?
-<a href="https://buymeacoffee.com/xamituchido"><img src="https://img.buymeacoffee.com/button-api/?text=The More You Need&emoji=🍕&slug=xamituchido&button_colour=c6a0f6&font_colour=000000&outline_colour=000000&coffee_colour=ffffff"/></a>
+<a href="https://www.buymeacoffee.com/xamituchido"><img src="https://img.buymeacoffee.com/button-api/?text=The More You Need&emoji=🍕&slug=xamituchido&button_colour=c6a0f6&font_colour=000000&&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"/></a>
