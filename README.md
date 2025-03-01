@@ -35,6 +35,6 @@ Proof I’m not alone in this madness.
 P.S. *This text is proudly sponsored by my 5-minute break from existential dread.*
 
 #### Support?
-<a href="https://www.buymeacoffee.com/xamituchido"><img src="https://img.buymeacoffee.com/button-api/?text=The More You Need&emoji=🍕&button_colour=c6a0f6&font_colour=000000&&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"/></a>
-
-<a href="https://patreon.com/Inc44"><img src="patreon.png" style="height: 6rem;"/></a>
+<a href="https://www.buymeacoffee.com/xamituchido"><img src="https://img.buymeacoffee.com/button-api/?text=The More You Need&button_colour=c6a0f6&font_colour=000000&&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" style="height: 4rem;"/></a>
+<a href="https://ko-fi.com/inc44"><img src="ko-fi.jpg" style="height: 4rem; border-radius: 4rem;"/></a>
+<a href="https://patreon.com/Inc44"><img src="patreon.png" style="height: 4rem; border-radius: 4rem;"/></a>
