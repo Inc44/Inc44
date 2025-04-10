@@ -6,6 +6,8 @@
 
 ![](https://streak-stats.demolab.com/?user=inc44&theme=buefy&hide_border=true&date_format=j/n[/Y])
 
+![](https://github-profile-trophy.vercel.app/?username=inc44&theme=dracula&rank=-?)
+
 ![](bar.png)
 
 [I'll do it later](https://inc44.github.io/blog/templates)
