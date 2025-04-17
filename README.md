@@ -26,7 +26,7 @@ But hey, I still have time for my projects!
 - **And Rust?** That’s my “spinning donut of doom,” faster than your WiFi.
 
 #### Contributions?
-On my way to **1,500**. Basically a part-time job.
+On my way to **2,000**. Basically a part-time job.
 But hey, it’s not about making a difference—it’s about the *illusion* of productivity.
 
 #### My stars?
